@@ -5,6 +5,9 @@
 
 <head>
     <title> Tables </title>
+</head>
+    
+    
     <style>
       table, th, td {
         border: 1px solid blueviolet;
@@ -21,4 +24,4 @@
         }
         
    </style>
-   </head>
+ 
