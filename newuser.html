@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+    <title>New User Form</title>
+
+</head>
+
+<body>
+    <form>
+        <label for="firstName">First Name: </label>
+</br>
+        <input id="firstName" name="firstName"  type="text" minLength="1" maxlength="32" required/>
+</br>
+        
+        <label for="lastName">Last Name: </label>
+</br>
+        <input id="lastName" name="lastName"  type="text" minLength="1" maxlength="32" required/>
+</br>
+            <label for="password">Password (6 character minimum): </label>
+</br>
+            <input id="password" name="password" minlength="6" required/>
+</br>
+            <label for="Email">Email </label>
+</br>
+            <input id="Email" name="Email" required/>
+</br>
+            <label for="phone">Phone Number:</label>
+</br>
+            <input type="tel" id="phone" placeholder="enter here" pattern="[0-9]{3}-[0-9]{4}"/>
+
+</br>       
+            <label for="month">Birth Month:</label>
+</br>
+            <input type="month" id="month" name="month"/>
+</br>
+            <label for="year">Birth Year:</label>
+</br>
+            <input type="year" id="year" name="year"/>       
+</br>
+           
+            <fieldset>
+                <legend>Can We Email You?</legend>
+
+                <div>
+                    <label for="yes">Yes</label>
+                    <input type="checkbox" id="yes" name="canweE"/>
+                </div>
+
+                <div>
+                    <label for="no">No</label>
+                    <input type="checkbox" id="no" name="canweE"/>
+                </div>
+
+            </fieldset>
+
+            
+</br>
+
+            <fieldset>
+                <legend>Can we text you?</legend>
+
+                <div>
+                    <label for="yes">Yes</label>
+                    <input type="radio" id="yes" name="canWeT" value="Yes">
+                </div>
+
+                <div>
+                    <label for="no">No</label>
+                    <input type="radio" id="no" name="canWeT" value="no">
+
+                </div>
+
+            </fieldset>
+</br>
+            <fieldset>
+                <legend>Do you like our product?</legend>
+
+                <div>
+                    <label for="1">1-Don't like it</label>
+                    <input type="radio" id="1" name="doYou" value="1">
+                </div>
+                    <label for="2">2-Needs improvement</label>
+                    <input type="radio" id="2" name="doYou" value="2">
+                <div>
+                    <label for="3">3-Neutral/It's OK</label>
+                    <input type="radio" id="3" name="doYou" value="3">
+                </div>
+                <div>
+                    <label for="4">4-Like it</label>
+                    <input type="radio" id="4" name="doYou" value="4">
+                </div>
+                <div>
+                    <label for="5">5-Love it</label>
+                    <input type="radio" id="5" name="doYou" value="5">
+                </div>
+            </fieldset>
+
+</br>
+
+            <input type="reset" value="Clear">
+
+            <input type="submit" value="Submit">
+
+
+    </form>
+</body>
+
+
+</html>
