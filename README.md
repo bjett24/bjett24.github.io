@@ -12,4 +12,8 @@
 
 
 <h1>My References</h1>
-<a href="https://bjett24.github.io/cartoons title="Cartoon Characters">Cartoon Characters</a>
+
+[References](reference.html)
+[Tables](tables.html)
+[Cartoons](cartoons.html)
+[New User](newuser.html)
