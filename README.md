@@ -13,10 +13,10 @@
 
 
 
-[References](reference.html)
-</br>
-[Tables](tables.html)
-</br>
-[Cartoons](cartoons.html)
-</br>
-[New User](newuser.html)
+[References](reference.html)  
+
+[Tables](tables.html) 
+
+[Cartoons](cartoons.html)  
+
+[New User](newuser.html)  
