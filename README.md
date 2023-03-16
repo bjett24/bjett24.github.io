@@ -6,3 +6,10 @@
 
 # "Try not to become a man of success, but rather try to become a man of value."  
 ## -Albert Einstein
+
+
+
+
+
+<h1>My References</h1>
+<a href="https://bjett24.github.io/cartoons title="Cartoon Characters">Cartoon Characters</a>
