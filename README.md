@@ -11,9 +11,12 @@
 </br>
 
 
-<h1>My References</h1>
+
 
 [References](reference.html)
+</br>
 [Tables](tables.html)
+</br>
 [Cartoons](cartoons.html)
+</br>
 [New User](newuser.html)
